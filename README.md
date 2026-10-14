@@ -37,4 +37,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 ## Notes
 
 - [Chapter 1 — Local AI infrastructure fundamentals](chapters/01-local-ai-infrastructure.md)
+- [Chapter 2 — LLM and VLM model basics](chapters/02-llm-vlm-model-basics.md)
 - [References](references/sources.md)
