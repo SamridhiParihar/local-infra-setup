@@ -21,21 +21,24 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 
 1. Local AI infrastructure fundamentals
 2. LLM and VLM model basics
-3. Model formats and quantization
-4. Local inference runtimes
-5. Hardware and memory requirements
-6. Benchmarking
-7. Agent infrastructure and tools
-8. Containers, CUDA, and remote compute
-9. Edge and robotics integration
+3. Model formats
+4. Quantization
+5. Local inference runtimes
+6. Hardware and memory requirements
+7. Benchmarking
+8. Agent infrastructure and tools
+9. Containers, CUDA, and remote compute
+10. Edge and robotics integration
 
 ## Experiments
 
 - [01 — Run a small local LLM](experiments/01-small-local-llm/README.md)
 - Automated prompt runner: [`tools/run_ollama_experiment.py`](tools/run_ollama_experiment.py)
+- Local VLM image runner: [`tools/run_ollama_vlm_experiment.py`](tools/run_ollama_vlm_experiment.py)
 
 ## Notes
 
 - [Chapter 1 — Local AI infrastructure fundamentals](chapters/01-local-ai-infrastructure.md)
 - [Chapter 2 — LLM and VLM model basics](chapters/02-llm-vlm-model-basics.md)
+- [Chapter 3 — Model formats](chapters/03-model-formats.md)
 - [References](references/sources.md)
