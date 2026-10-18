@@ -43,4 +43,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 3 — Model formats](chapters/03-model-formats.md)
 - [Chapter 4 — Quantization](chapters/04-quantization.md)
 - [Chapter 5 — Local inference](chapters/05-local-inference.md)
+- [Chapter 6 — Ollama](chapters/06-ollama.md)
 - [References](references/sources.md)
