@@ -41,4 +41,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 1 — Local AI infrastructure fundamentals](chapters/01-local-ai-infrastructure.md)
 - [Chapter 2 — LLM and VLM model basics](chapters/02-llm-vlm-model-basics.md)
 - [Chapter 3 — Model formats](chapters/03-model-formats.md)
+- [Chapter 4 — Quantization](chapters/04-quantization.md)
 - [References](references/sources.md)
