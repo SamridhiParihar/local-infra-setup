@@ -42,4 +42,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 2 — LLM and VLM model basics](chapters/02-llm-vlm-model-basics.md)
 - [Chapter 3 — Model formats](chapters/03-model-formats.md)
 - [Chapter 4 — Quantization](chapters/04-quantization.md)
+- [Chapter 5 — Local inference](chapters/05-local-inference.md)
 - [References](references/sources.md)
