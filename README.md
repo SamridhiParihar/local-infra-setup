@@ -44,4 +44,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 4 — Quantization](chapters/04-quantization.md)
 - [Chapter 5 — Local inference](chapters/05-local-inference.md)
 - [Chapter 6 — Ollama](chapters/06-ollama.md)
+- [Chapter 7 — `llama.cpp`](chapters/07-llama-cpp.md)
 - [References](references/sources.md)
