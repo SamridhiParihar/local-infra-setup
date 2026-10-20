@@ -46,4 +46,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 6 — Ollama](chapters/06-ollama.md)
 - [Chapter 7 — `llama.cpp`](chapters/07-llama-cpp.md)
 - [Chapter 8 — Hugging Face Transformers](chapters/08-hugging-face-transformers.md)
+- [Chapter 9 — vLLM](chapters/09-vllm.md)
 - [References](references/sources.md)
