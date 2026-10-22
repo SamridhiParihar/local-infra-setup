@@ -50,4 +50,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 10 — Hardware and Memory](chapters/10-hardware-and-memory.md)
 - [Chapter 11 — Benchmarking](chapters/11-benchmarking.md)
 - [Chapter 12 — Agent Infrastructure](chapters/12-agent-infrastructure.md)
+- [Chapter 13 — Docker](chapters/13-docker.md)
 - [References](references/sources.md)
