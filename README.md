@@ -49,4 +49,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 9 — vLLM](chapters/09-vllm.md)
 - [Chapter 10 — Hardware and Memory](chapters/10-hardware-and-memory.md)
 - [Chapter 11 — Benchmarking](chapters/11-benchmarking.md)
+- [Chapter 12 — Agent Infrastructure](chapters/12-agent-infrastructure.md)
 - [References](references/sources.md)
