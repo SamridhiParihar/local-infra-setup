@@ -48,4 +48,5 @@ Keep experiment inputs and measurements here so that results can be repeated. Do
 - [Chapter 8 — Hugging Face Transformers](chapters/08-hugging-face-transformers.md)
 - [Chapter 9 — vLLM](chapters/09-vllm.md)
 - [Chapter 10 — Hardware and Memory](chapters/10-hardware-and-memory.md)
+- [Chapter 11 — Benchmarking](chapters/11-benchmarking.md)
 - [References](references/sources.md)
